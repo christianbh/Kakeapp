@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/NUnit
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/NUnit/nunit.framework.dll
+END
+nunit.framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/NUnit/nunit.framework.xml
+END

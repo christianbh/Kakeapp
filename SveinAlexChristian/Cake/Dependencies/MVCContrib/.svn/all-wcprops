@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/License.txt
+END
+MvcContrib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.dll
+END
+MvcContrib.FluentHtml.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.FluentHtml.dll
+END
+MvcContrib.WatiN.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.WatiN.dll
+END
+MvcContrib.TestHelper.XML
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.TestHelper.XML
+END
+MvcContrib.XML
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.XML
+END
+MvcContrib.FluentHtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.FluentHtml.xml
+END
+MvcContrib.TestHelper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Cake/!svn/ver/9/trunk/Cake/Dependencies/MVCContrib/MvcContrib.TestHelper.dll
+END

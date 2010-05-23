@@ -1,0 +1,9 @@
+D:\Data\Playground\VS2010\Cake\UI\bin\UI.dll
+D:\Data\Playground\VS2010\Cake\UI\bin\UI.pdb
+D:\Data\Playground\VS2010\Cake\UI\bin\Core.dll
+D:\Data\Playground\VS2010\Cake\UI\bin\DAL.dll
+D:\Data\Playground\VS2010\Cake\UI\bin\Core.pdb
+D:\Data\Playground\VS2010\Cake\UI\bin\DAL.pdb
+D:\Data\Playground\VS2010\Cake\UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Playground\VS2010\Cake\UI\obj\Debug\UI.dll
+D:\Data\Playground\VS2010\Cake\UI\obj\Debug\UI.pdb

@@ -1,0 +1,16 @@
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Cake.IntegrationTests.dll.config
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Cake.IntegrationTests.dll
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Cake.IntegrationTests.pdb
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Core.dll
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\DAL.dll
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\nDumbster.dll
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\nunit.framework.dll
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Scheduler.exe
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Core.pdb
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\DAL.pdb
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\Scheduler.pdb
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\nDumbster.xml
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\bin\Debug\nunit.framework.xml
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\obj\Debug\Cake.IntegrationTests.dll
+D:\Data\Playground\VS2010\Cake\Cake.IntegrationTests\obj\Debug\Cake.IntegrationTests.pdb

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/Cake/!svn/ver/49/trunk/Cake/Scheduler
+END
+CakeScheduleService.resx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Cake/!svn/ver/38/trunk/Cake/Scheduler/CakeScheduleService.resx
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Cake/!svn/ver/49/trunk/Cake/Scheduler/App.config
+END
+CakeScheduleService.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Cake/!svn/ver/38/trunk/Cake/Scheduler/CakeScheduleService.Designer.cs
+END
+ProjectInstaller.resx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Cake/!svn/ver/44/trunk/Cake/Scheduler/ProjectInstaller.resx
+END
+Service1.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Cake/!svn/ver/3/trunk/Cake/Scheduler/Service1.Designer.cs
+END
+CakeScheduleService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Cake/!svn/ver/39/trunk/Cake/Scheduler/CakeScheduleService.cs
+END
+Service1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Cake/!svn/ver/3/trunk/Cake/Scheduler/Service1.cs
+END
+ProjectInstaller.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Cake/!svn/ver/44/trunk/Cake/Scheduler/ProjectInstaller.Designer.cs
+END
+ProjectInstaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Cake/!svn/ver/39/trunk/Cake/Scheduler/ProjectInstaller.cs
+END
+ScheduleWorker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Cake/!svn/ver/39/trunk/Cake/Scheduler/ScheduleWorker.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Cake/!svn/ver/39/trunk/Cake/Scheduler/Program.cs
+END
+Scheduler.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Cake/!svn/ver/49/trunk/Cake/Scheduler/Scheduler.csproj
+END

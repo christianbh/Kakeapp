@@ -1,0 +1,15 @@
+D:\Prosjekt\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\bin\Debug\Statkraft.TCS.Kake.Domain.dll
+D:\Prosjekt\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\bin\Debug\Statkraft.TCS.Kake.Domain.pdb
+D:\Prosjekt\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Prosjekt\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\Statkraft.TCS.Kake.Domain.dll
+D:\Prosjekt\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\Statkraft.TCS.Kake.Domain.pdb
+D:\Prosjekter\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\bin\Debug\Statkraft.TCS.Kake.Domain.dll
+D:\Prosjekter\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\bin\Debug\Statkraft.TCS.Kake.Domain.pdb
+D:\Prosjekter\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Prosjekter\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\Statkraft.TCS.Kake.Domain.dll
+D:\Prosjekter\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\Statkraft.TCS.Kake.Domain.pdb
+D:\Elisabeth\POC\Statkraft.TCS.Kake\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\bin\Debug\Statkraft.TCS.Kake.Domain.dll
+D:\Elisabeth\POC\Statkraft.TCS.Kake\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\bin\Debug\Statkraft.TCS.Kake.Domain.pdb
+D:\Elisabeth\POC\Statkraft.TCS.Kake\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Elisabeth\POC\Statkraft.TCS.Kake\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\Statkraft.TCS.Kake.Domain.dll
+D:\Elisabeth\POC\Statkraft.TCS.Kake\Statkraft.TCS.Kake\Statkraft.TCS.Kake.Domain\obj\Debug\Statkraft.TCS.Kake.Domain.pdb

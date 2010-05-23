@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/Cake/!svn/ver/39/trunk/Cake/DAL
+END
+DAL.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Cake/!svn/ver/10/trunk/Cake/DAL/DAL.csproj
+END
+RepositoryWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Cake/!svn/ver/39/trunk/Cake/DAL/RepositoryWriter.cs
+END
+RepositoryReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Cake/!svn/ver/39/trunk/Cake/DAL/RepositoryReader.cs
+END
+CakeScheduleDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Cake/!svn/ver/39/trunk/Cake/DAL/CakeScheduleDao.cs
+END
+DepartmentDao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Cake/!svn/ver/39/trunk/Cake/DAL/DepartmentDao.cs
+END

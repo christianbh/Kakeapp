@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/Cake/!svn/ver/43/trunk/Cake/UI
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Cake/!svn/ver/39/trunk/Cake/UI/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Cake/!svn/ver/3/trunk/Cake/UI/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Cake/!svn/ver/39/trunk/Cake/UI/Web.config
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Cake/!svn/ver/3/trunk/Cake/UI/Web.Debug.config
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Cake/!svn/ver/3/trunk/Cake/UI/Global.asax
+END
+UI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/Cake/!svn/ver/43/trunk/Cake/UI/UI.csproj
+END

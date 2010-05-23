@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="10D2AE8E-D82C-4D45-A7AA-83154DEEA231" ModuleId="Statkraft.TCS.Kake.Domain" />
+  <Module PersistentId="8E29A03D-9DA5-4787-831B-EDB16AC7B036" ModuleId="Statkraft.TCS.Kake.Domain.Tests" />
+  <Module PersistentId="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F" ModuleId="Statkraft.TCS.Kake" />
+  <Module PersistentId="878BBDC6-FB92-4FB2-8FE3-81DD1482F34A" ModuleId="Statkraft.TCS.Kake.Tests" />
+  <Module PersistentId="377BC268-56D9-4E3E-AFF0-329D00C0930D" ModuleId="Statkraft.TCS.Kake.Infrastructure" />
+  <Module PersistentId="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21" ModuleId="Statkraft.TCS.Kake.Infrastructure.Tests" />
+</Modules>

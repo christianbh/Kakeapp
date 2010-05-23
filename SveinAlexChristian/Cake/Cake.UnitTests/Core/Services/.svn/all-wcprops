@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.UnitTests/Core/Services
+END
+MailServiceTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Cake/!svn/ver/34/trunk/Cake/Cake.UnitTests/Core/Services/MailServiceTests.cs
+END
+CakeScheduleServicesTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.UnitTests/Core/Services/CakeScheduleServicesTests.cs
+END
+DepartmentServicesTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.UnitTests/Core/Services/DepartmentServicesTests.cs
+END

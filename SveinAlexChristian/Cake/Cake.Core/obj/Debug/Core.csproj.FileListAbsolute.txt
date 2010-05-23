@@ -1,0 +1,5 @@
+D:\Data\Playground\VS2010\Cake\Cake.Core\bin\Debug\Core.dll
+D:\Data\Playground\VS2010\Cake\Cake.Core\bin\Debug\Core.pdb
+D:\Data\Playground\VS2010\Cake\Cake.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Playground\VS2010\Cake\Cake.Core\obj\Debug\Core.dll
+D:\Data\Playground\VS2010\Cake\Cake.Core\obj\Debug\Core.pdb

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statkraft.TCS.Kake.Domain", "Statkraft.TCS.Kake.Domain\Statkraft.TCS.Kake.Domain.csproj", "{10D2AE8E-D82C-4D45-A7AA-83154DEEA231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statkraft.TCS.Kake.Domain.Tests", "Statkraft.TCS.Kake.Domain.Tests\Statkraft.TCS.Kake.Domain.Tests.csproj", "{8E29A03D-9DA5-4787-831B-EDB16AC7B036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statkraft.TCS.Kake", "Statkraft.TCS.Kake\Statkraft.TCS.Kake.csproj", "{A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statkraft.TCS.Kake.Tests", "Statkraft.TCS.Kake.Tests\Statkraft.TCS.Kake.Tests.csproj", "{878BBDC6-FB92-4FB2-8FE3-81DD1482F34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statkraft.TCS.Kake.Infrastructure", "Statkraft.TCS.Kake.Infrastructure\Statkraft.TCS.Kake.Infrastructure.csproj", "{377BC268-56D9-4E3E-AFF0-329D00C0930D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statkraft.TCS.Kake.Infrastructure.Tests", "Statkraft.TCS.Kake.Infrastructure.Tests\Statkraft.TCS.Kake.Infrastructure.Tests.csproj", "{4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test projects", "Test projects", "{3A052CE0-4C7D-491B-ABA3-224DFE8CE8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D2AE8E-D82C-4D45-A7AA-83154DEEA231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D2AE8E-D82C-4D45-A7AA-83154DEEA231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D2AE8E-D82C-4D45-A7AA-83154DEEA231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D2AE8E-D82C-4D45-A7AA-83154DEEA231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E29A03D-9DA5-4787-831B-EDB16AC7B036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E29A03D-9DA5-4787-831B-EDB16AC7B036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E29A03D-9DA5-4787-831B-EDB16AC7B036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E29A03D-9DA5-4787-831B-EDB16AC7B036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878BBDC6-FB92-4FB2-8FE3-81DD1482F34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878BBDC6-FB92-4FB2-8FE3-81DD1482F34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878BBDC6-FB92-4FB2-8FE3-81DD1482F34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878BBDC6-FB92-4FB2-8FE3-81DD1482F34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377BC268-56D9-4E3E-AFF0-329D00C0930D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377BC268-56D9-4E3E-AFF0-329D00C0930D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377BC268-56D9-4E3E-AFF0-329D00C0930D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377BC268-56D9-4E3E-AFF0-329D00C0930D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E29A03D-9DA5-4787-831B-EDB16AC7B036} = {3A052CE0-4C7D-491B-ABA3-224DFE8CE8DC}
+		{4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21} = {3A052CE0-4C7D-491B-ABA3-224DFE8CE8DC}
+		{878BBDC6-FB92-4FB2-8FE3-81DD1482F34A} = {3A052CE0-4C7D-491B-ABA3-224DFE8CE8DC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\Scheduler.exe.config
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\Scheduler.exe
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\Scheduler.pdb
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\Core.dll
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\DAL.dll
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\Core.pdb
+D:\Data\Playground\VS2010\Cake\Scheduler\bin\Debug\DAL.pdb
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\Scheduler.CakeScheduleService.resources
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\Cake.Scheduler.ProjectInstaller.resources
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\Scheduler.exe
+D:\Data\Playground\VS2010\Cake\Scheduler\obj\x86\Debug\Scheduler.pdb

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.Core/Services
+END
+IMailService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Cake/!svn/ver/29/trunk/Cake/Cake.Core/Services/IMailService.cs
+END
+ICakeScheduleServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Cake/!svn/ver/37/trunk/Cake/Cake.Core/Services/ICakeScheduleServices.cs
+END
+IDepartmentServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Cake/!svn/ver/22/trunk/Cake/Cake.Core/Services/IDepartmentServices.cs
+END
+MailService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.Core/Services/MailService.cs
+END
+CakeScheduleServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.Core/Services/CakeScheduleServices.cs
+END
+DepartmentServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.Core/Services/DepartmentServices.cs
+END

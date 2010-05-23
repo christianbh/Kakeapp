@@ -1,0 +1,36 @@
+Beskrivelse av TCS KakeApp
+==========================
+Skrevet av 
+Elisabeth Forland
+Stian D. Gjedrem
+
+
+
+Kildekoden ligger under
+Kildekode
+(Programmet er utviklet i C# / .NET Framework 3.5)
+
+Det kjørbare programmet ligger i 
+Program
+
+Liste over mulige kakeansvarlige legges i filen MuligeKakeAnsvarlige.txt,
+på formatet som er beskrevet i oppgaven. Vi støtter ikke flere mail på samme linje.
+
+Liste over ferier legges inn i filen Ferier.txt på formatet (start-slutt ferie):
+DD.MM.ÅÅÅÅ-DD.MM.ÅÅÅÅ
+DD.MM.ÅÅÅÅ-DD.MM.ÅÅÅÅ
+
+For å starte programmet, kjør Statkraft.TCS.Kake.exe i Program-folderen.
+Programmet bruker filene NesteKakeAnsvarlig.txt og NesteKakeDao.txt som
+database. 
+
+Første gang programmet startes er neste ansvarlige- og dato-filene tomme.
+Det blir da valgt ut ansvarlig fra listen, og dato blir neste tilgjengelige fredag som ikke er en ferie.
+Dato og ansvarlig skrives til filene.
+
+Onsdag kl.14 før en kakefredag sendes mail med påminnelse til den ansvarlige.
+På kakefredag kl.14 gjøres ny trekning, og datafilene oppdateres med ny ansvarlig og dato.
+
+For å kjøre en faktisk test av systemet, har vi stilt klokken på PCen det kjøres på manuelt.
+
+

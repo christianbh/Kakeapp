@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <add key="HourOfDayToRunService" value="1"/>
+    <add key="TimerRunInterval" value="3600000"/>
+    <add key="NumberOfDaysBeforeCakeDayToSendMail" value="1"/>
+    <add key="FromMailAddress" value="tcs@statkraft.com"/>
+    <add key="MailSubject" value="KAKEANSVAR"/>
+    <add key="MailBody" value="Din avdeling har ansvar for kake til kake/kaffe-møtet på fredag {0}"/>
+    <add key="MailHost" value="SMTPGW.nordic.energycorp.com"/>
+    <add key="RepositoryPath" value="c:\temp\"/>
+    <add key="LogPath" value="c:\temp\cakeService.log"/>
+  </appSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0,Profile=Client"/>
+  </startup>
+</configuration>

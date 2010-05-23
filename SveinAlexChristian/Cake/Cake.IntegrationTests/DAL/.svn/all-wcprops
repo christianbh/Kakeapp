@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.IntegrationTests/DAL
+END
+RepositoryWriterTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.IntegrationTests/DAL/RepositoryWriterTests.cs
+END
+RepositoryReaderTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.IntegrationTests/DAL/RepositoryReaderTests.cs
+END
+CakeScheduleDaoTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.IntegrationTests/DAL/CakeScheduleDaoTests.cs
+END
+DepartmentDaoTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Cake/!svn/ver/39/trunk/Cake/Cake.IntegrationTests/DAL/DepartmentDaoTests.cs
+END

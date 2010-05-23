@@ -1,0 +1,80 @@
+10
+
+dir
+50
+https://noosl0636ld.nordic.energycorp.com/svn/Cake/trunk/Cake/Cake.Core
+https://noosl0636ld.nordic.energycorp.com/svn/Cake
+
+
+
+2010-05-12T06:29:29.226495Z
+41
+svein
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+258bce67-22cc-5743-8249-f8d769784c7a
+
+Services
+dir
+
+Logging
+dir
+
+Configuration
+dir
+
+Domain
+dir
+
+Core.csproj
+file
+
+
+
+
+2010-05-12T07:58:21.244671Z
+c6e1096ea55a3c16208b799b2556b254
+2010-05-10T09:10:34.371643Z
+34
+svein
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3338
+
+Properties
+dir
+
+DataInterfaces
+dir
+

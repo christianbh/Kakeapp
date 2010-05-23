@@ -1,0 +1,488 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:Ferie.cs" caret="336" fromTop="14" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:FerieOversiktTests.cs" caret="431" fromTop="15" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KalenderTests.cs" caret="1288" fromTop="30" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:IEpostSender.cs" caret="112" fromTop="5" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:IKakeFordeler.cs" caret="251" fromTop="8" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:IKakeFordelerRepository.cs" caret="374" fromTop="10" />
+      <File id="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21/f:NesteKakeDato.txt" caret="10" fromTop="0" />
+      <File id="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21/f:EpostSenderIntegrationTests.cs" caret="633" fromTop="20" />
+      <File id="377BC268-56D9-4E3E-AFF0-329D00C0930D/f:EpostSender.cs" caret="375" fromTop="8" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:IFerieOversikt.cs" caret="78" fromTop="3" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:FerieOversikt.cs" caret="599" fromTop="22" />
+      <File id="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21/f:Ferier.txt" caret="67" fromTop="1" />
+      <File id="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21/f:NesteKakeAnsvarlig.txt" caret="41" fromTop="0" />
+      <File id="377BC268-56D9-4E3E-AFF0-329D00C0930D/f:KakeFordelerRepository.cs" caret="2128" fromTop="17" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:Kalender.cs" caret="158" fromTop="6" />
+      <File id="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21/f:MuligeKakeAnsvarlige.txt" caret="92" fromTop="1" />
+      <File id="4BF6F020-FA5C-4C79-AD1B-F9BB7F4CAA21/f:KakeFordelerRepositoryIntegrationTests.cs" caret="2496" fromTop="19" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:KakeAnsvarlig.cs" caret="687" fromTop="24" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeAnsvarligTests.cs" caret="533" fromTop="15" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:IKakeFordelerService.cs" caret="0" fromTop="0" />
+      <File id="878BBDC6-FB92-4FB2-8FE3-81DD1482F34A/f:KakeAppTests.cs" caret="519" fromTop="18" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerTests.cs" caret="954" fromTop="27" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5396" fromTop="12" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:KakeApp.cs" caret="942" fromTop="7" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:KakeFordelerService.cs" caret="2328" fromTop="17" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:KakeFordeler.cs" caret="1108" fromTop="13" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:NesteKakeDato.txt" caret="0" fromTop="0" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:NesteKakeAnsvarlig.txt" caret="0" fromTop="0" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:MuligeKakeAnsvarlige.txt" caret="238" fromTop="5" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:Ferier.txt" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerTests.cs" caret="4483" fromTop="21" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerTests.cs" caret="3294" fromTop="13" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5002" fromTop="12" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5061" fromTop="21" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4043" fromTop="7" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="6397" fromTop="25" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5754" fromTop="4" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5551" fromTop="0" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4604" fromTop="0" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4169" fromTop="0" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4986" fromTop="12" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4169" fromTop="9" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4169" fromTop="3" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4442" fromTop="17" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4713" fromTop="3" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="1507" fromTop="22" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="1196" fromTop="17" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="3327" fromTop="12" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="4169" fromTop="8" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5045" fromTop="12" />
+      <File id="8E29A03D-9DA5-4787-831B-EDB16AC7B036/f:KakeFordelerServiceTests.cs" caret="5209" fromTop="7" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:KakeFordeler.cs" caret="1108" fromTop="13" />
+      <File id="10D2AE8E-D82C-4D45-A7AA-83154DEEA231/f:KakeFordelerService.cs" caret="2412" fromTop="18" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:KakeApp.cs" caret="1310" fromTop="15" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:KakeApp.cs" caret="1189" fromTop="14" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:NesteKakeDato.txt" caret="0" fromTop="0" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:MuligeKakeAnsvarlige.txt" caret="98" fromTop="1" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:MuligeKakeAnsvarlige.txt" caret="238" fromTop="12" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:MuligeKakeAnsvarlige.txt" caret="238" fromTop="5" />
+      <File id="A5F83A0D-A440-4B17-B9B5-BC62AFC2FB4F/f:Ferier.txt" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="39" />
+      <Item value="void" priority="21" />
+      <Item value="kakeFordeler" priority="14" />
+      <Item value="new" priority="79" />
+      <Item value="KakeFordeler" priority="5" />
+      <Item value="Kake" priority="1" />
+      <Item value="Assert`0" priority="16" />
+      <Item value="avdeling" priority="0" />
+      <Item value="Is`0" priority="12" />
+      <Item value="return" priority="25" />
+      <Item value="Avdeling" priority="3" />
+      <Item value="Avdeling`0" priority="4" />
+      <Item value="List`0" priority="1" />
+      <Item value="avdelings" priority="4" />
+      <Item value="List&lt;Avdeling&gt;" priority="0" />
+      <Item value="Avdelinger" priority="3" />
+      <Item value="avdelinger" priority="2" />
+      <Item value="IList" priority="3" />
+      <Item value="navn" priority="2" />
+      <Item value="epost" priority="2" />
+      <Item value="KakeAnsvarlig`0" priority="22" />
+      <Item value="kakeAnsvarlige" priority="4" />
+      <Item value="expectedKakeAnsvarlig" priority="0" />
+      <Item value="forrigeKakeAnsvarlig" priority="1" />
+      <Item value="int" priority="5" />
+      <Item value="MuligeKakeAnsvarlige" priority="2" />
+      <Item value="m" priority="7" />
+      <Item value="forrigeKakeAnsvarligIndex" priority="0" />
+      <Item value="nesteKakeAnsvarligIndex" priority="2" />
+      <Item value="if" priority="19" />
+      <Item value="SetUp" priority="3" />
+      <Item value="_kakeFordeler" priority="10" />
+      <Item value="Action`0" priority="0" />
+      <Item value="actualNextKakeDato" priority="0" />
+      <Item value="DateTime`0" priority="57" />
+      <Item value="System" priority="4" />
+      <Item value="DayOfWeek`0" priority="4" />
+      <Item value="expectedNextKakeDato" priority="0" />
+      <Item value="Calendar`0" priority="2" />
+      <Item value="calendar" priority="4" />
+      <Item value="GregorianCalendar`0" priority="0" />
+      <Item value="GregorianCalendar" priority="0" />
+      <Item value="FirstDay" priority="0" />
+      <Item value="Monday" priority="0" />
+      <Item value="DateTime" priority="15" />
+      <Item value="wednesday" priority="1" />
+      <Item value="today" priority="18" />
+      <Item value="Friday" priority="1" />
+      <Item value="private" priority="5" />
+      <Item value="const" priority="1" />
+      <Item value="daysInWeek" priority="2" />
+      <Item value="Test" priority="5" />
+      <Item value="saturday" priority="0" />
+      <Item value="Sunday" priority="0" />
+      <Item value="friday" priority="2" />
+      <Item value="FindNextFriday`0" priority="1" />
+      <Item value="var" priority="4" />
+      <Item value="endOfWeek" priority="0" />
+      <Item value="_kalender" priority="0" />
+      <Item value="Kalender" priority="1" />
+      <Item value="actualKakeDato" priority="1" />
+      <Item value="expectedKakeDato" priority="1" />
+      <Item value="Kalender`0" priority="0" />
+      <Item value="kalender" priority="0" />
+      <Item value="ferieOversikt" priority="11" />
+      <Item value="FerieOversikt" priority="5" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="List&lt;TimeSpan&gt;" priority="0" />
+      <Item value="ferier" priority="4" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="Ferie`0" priority="6" />
+      <Item value="FromDate" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="ToDate" priority="0" />
+      <Item value="to" priority="0" />
+      <Item value="actualResult" priority="0" />
+      <Item value="bool" priority="2" />
+      <Item value="true" priority="2" />
+      <Item value="expectedHolidayStatus" priority="0" />
+      <Item value="Ferier" priority="1" />
+      <Item value="foreach" priority="3" />
+      <Item value="ferie" priority="3" />
+      <Item value="day" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="holiday1" priority="0" />
+      <Item value="holiday2" priority="0" />
+      <Item value="dayToCheck" priority="0" />
+      <Item value="_ferier" priority="0" />
+      <Item value="CreateFerieList`0" priority="0" />
+      <Item value="FerieOversikt`0" priority="5" />
+      <Item value="Mock&lt;FerieOversikt&gt;" priority="0" />
+      <Item value="ferieOversiktMock" priority="0" />
+      <Item value="It`0" priority="9" />
+      <Item value="protected" priority="0" />
+      <Item value="nextFriday" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="FindNextKakeDato`0" priority="3" />
+      <Item value="Predicate" priority="0" />
+      <Item value="List&lt;Ferie&gt;" priority="1" />
+      <Item value="nextFridayIsAHoliday" priority="0" />
+      <Item value="kakeAnsvarlig" priority="15" />
+      <Item value="KakeAnsvarlig" priority="11" />
+      <Item value="String`0" priority="0" />
+      <Item value="kakeDato" priority="5" />
+      <Item value="Mock`0" priority="0" />
+      <Item value="Mock&lt;IMailSender&gt;" priority="0" />
+      <Item value="IEpostSender`0" priority="2" />
+      <Item value="epostSenderMock" priority="2" />
+      <Item value="IFerieOversikt`0" priority="1" />
+      <Item value="nextKakeDato" priority="2" />
+      <Item value="DaysBeforeKakeDatoToSendReminder" priority="0" />
+      <Item value="epostSender" priority="1" />
+      <Item value="FindNextKakeAnsvarlig`0" priority="3" />
+      <Item value="this" priority="2" />
+      <Item value="KakeAppTests`0" priority="1" />
+      <Item value="dateTime" priority="2" />
+      <Item value="kakeApp" priority="4" />
+      <Item value="_ferieOversiktMock" priority="0" />
+      <Item value="Mock&lt;IFerieOversikt&gt;" priority="0" />
+      <Item value="now" priority="5" />
+      <Item value="_epostSender" priority="0" />
+      <Item value="NextKakeDato" priority="7" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="null" priority="13" />
+      <Item value="_epostSenderMock" priority="1" />
+      <Item value="KakeFordelerServiceTests`0" priority="0" />
+      <Item value="_kakeFordelerService" priority="5" />
+      <Item value="KakeFordelerService" priority="1" />
+      <Item value="KakeFordeler`0" priority="3" />
+      <Item value="Moq&lt;KakeFordeler&gt;" priority="0" />
+      <Item value="kakeFordelerMock" priority="0" />
+      <Item value="previousKakeAnsvarlig" priority="3" />
+      <Item value="_nextKakeAnsvarlig" priority="0" />
+      <Item value="_nextKakeDato" priority="1" />
+      <Item value="KakeApp" priority="0" />
+      <Item value="Mock&lt;KakeFordelerService&gt;" priority="0" />
+      <Item value="kakeFordelerService" priority="2" />
+      <Item value="kakeFordelerServiceMock" priority="2" />
+      <Item value="KakeFordelerService`0" priority="0" />
+      <Item value="Times`0" priority="0" />
+      <Item value="Timer" priority="0" />
+      <Item value="intervalSeconds" priority="0" />
+      <Item value="timer" priority="0" />
+      <Item value="_timer" priority="0" />
+      <Item value="KakeApp`0" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="ConsoleKey`0" priority="0" />
+      <Item value="KakeFordelerRepositoryTests`0" priority="0" />
+      <Item value="ShouldGetMuligeKakeAnsvarlige`0" priority="0" />
+      <Item value="kakeAnsvarligs" priority="3" />
+      <Item value="rep" priority="4" />
+      <Item value="text" priority="0" />
+      <Item value="List&lt;KakeAnsvarlig&gt;" priority="2" />
+      <Item value="line" priority="1" />
+      <Item value="string" priority="18" />
+      <Item value="splittedLine" priority="3" />
+      <Item value="Ferie" priority="0" />
+      <Item value="start" priority="0" />
+      <Item value="Mock&lt;IKakeFordelerRepository&gt;" priority="0" />
+      <Item value="_kakeFordelerRepository" priority="4" />
+      <Item value="EpostSenderTests`0" priority="0" />
+      <Item value="MailAddress" priority="0" />
+      <Item value="SmtpMail" priority="2" />
+      <Item value="Send`0" priority="2" />
+      <Item value="mail" priority="0" />
+      <Item value="client" priority="0" />
+      <Item value="textLines" priority="2" />
+      <Item value="File`0" priority="2" />
+      <Item value="fileStream" priority="0" />
+      <Item value="override" priority="1" />
+      <Item value="Navn" priority="2" />
+      <Item value="Epost" priority="0" />
+      <Item value="nextKakeAnsvarlig" priority="5" />
+      <Item value="_kakeFordelerRepositoryMock" priority="4" />
+      <Item value="KakeFordelerRepository`0" priority="3" />
+      <Item value="HttpContinueDelegate`0" priority="0" />
+      <Item value="FerierFilename" priority="0" />
+      <Item value="NesteKakeAnsvarligFilename" priority="0" />
+      <Item value="NesteKakeDatoFilename" priority="0" />
+      <Item value="KakeAnsvarligeFilename" priority="0" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="SetUp`0" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="filename" priority="0" />
+      <Item value="WriteToFile`0" priority="0" />
+      <Item value="_repository" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="SetUpRepository`0" priority="1" />
+      <Item value="actualText" priority="0" />
+      <Item value="expectedText" priority="0" />
+      <Item value="AssertThatRepositoryHasText`0" priority="0" />
+      <Item value="epostSubject" priority="0" />
+      <Item value="MailServer" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="s" priority="2" />
+      <Item value="Length" priority="0" />
+      <Item value="NextKakeAnsvarlig" priority="2" />
+      <Item value="_kakeAnsvarlige" priority="1" />
+      <Item value="kakeAnsvarligString" priority="0" />
+      <Item value="kakeAnsvarlig2" priority="0" />
+      <Item value="ansvarlig" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="base" priority="1" />
+      <Item value="is" priority="0" />
+      <Item value="previousKakeDato" priority="0" />
+      <Item value="FindNextAvailableFriday`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="14" />
+      <Item value="True`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="Not" priority="2" />
+      <Item value="EqualTo`0" priority="8" />
+      <Item value="True" priority="0" />
+      <Item value="Null" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NUnit.Framework.Constraints.ConstraintExpression">
+      <Item value="Null" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.KakeAnsvarlig">
+      <Item value="Navn" priority="10" />
+      <Item value="Epost" priority="3" />
+      <Item value="ToString`0" priority="3" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="ElementAt`1" priority="0" />
+      <Item value="First`1" priority="2" />
+      <Item value="Count" priority="1" />
+      <Item value="Add`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="2" />
+      <Item value="Split`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Skip`1" priority="0" />
+      <Item value="First`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortDateString`0" priority="6" />
+      <Item value="DayOfWeek" priority="7" />
+      <Item value="AddDays`0" priority="8" />
+      <Item value="Day" priority="0" />
+      <Item value="Date" priority="15" />
+      <Item value="Hour" priority="0" />
+      <Item value="Minute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="13" />
+      <Item value="Today" priority="1" />
+      <Item value="Parse`0" priority="1" />
+      <Item value="TryParse`0" priority="0" />
+      <Item value="MinValue" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DayOfWeek">
+      <Item value="Friday" priority="3" />
+      <Item value="Saturday" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.Calendar">
+      <Item value="CurrentEra" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Globalization.GregorianCalendar">
+      <Item value="GetWeekOfYear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.KakeFordeler">
+      <Item value="FindNextKakeAnsvarlig`0" priority="1" />
+      <Item value="NextKakeAnsvarlig" priority="7" />
+      <Item value="NextKakeDato" priority="2" />
+      <Item value="FerieOversikt" priority="0" />
+      <Item value="MuligeKakeAnsvarlige" priority="0" />
+      <Item value="FindNextKakeDato`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.Kalender">
+      <Item value="FindNextFriday`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.Ferie">
+      <Item value="FromDate" priority="1" />
+      <Item value="ToDate" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`1" priority="6" />
+      <Item value="Object" priority="7" />
+      <Item value="Verify`1" priority="1" />
+      <Item value="SetupGet`1" priority="0" />
+      <Item value="VerifyAll`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.FerieOversikt">
+      <Item value="IsHoliday`0" priority="0" />
+      <Item value="Ferier" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="IsAny`1" priority="9" />
+      <Item value="Is`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`4" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.IFerieOversikt">
+      <Item value="IsHoliday`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`1">
+      <Item value="Verifiable`0" priority="5" />
+      <Item value="AtMost`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.Tests.IEpostSender">
+      <Item value="Send`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.Times">
+      <Item value="Never`0" priority="0" />
+      <Item value="AtLeast`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.IKakeFordeler">
+      <Item value="FindNextKakeAnsvarlig`0" priority="2" />
+      <Item value="NextKakeDato" priority="2" />
+      <Item value="NextKakeAnsvarlig" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.IReturnsResult`1">
+      <Item value="Verifiable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetupGetter`2">
+      <Item value="Returns`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.Tests.KakeFordelerService">
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.IKakeFordelerService">
+      <Item value="Run`0" priority="1" />
+      <Item value="GetKakeFordelerFromRepository`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="Elapsed" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ConsoleKey">
+      <Item value="Escape" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllText`0" priority="1" />
+      <Item value="OpenWrite`0" priority="0" />
+      <Item value="WriteAllText`0" priority="0" />
+      <Item value="WriteAllLines`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Domain.IKakeFordelerRepository">
+      <Item value="GetFerier`0" priority="0" />
+      <Item value="GetMuligeKakeAnsvarlige`0" priority="1" />
+      <Item value="GetFerieOversikt`0" priority="0" />
+      <Item value="GetNextKakeDato`0" priority="0" />
+      <Item value="GetNextKakeAnsvarlig`0" priority="0" />
+      <Item value="SaveNextKakeAnsvarlig`0" priority="3" />
+      <Item value="SaveNextKakeDato`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Infrastructure.EpostSender">
+      <Item value="Send`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
+      <Item value="IsBodyHtml" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Statkraft.TCS.Kake.Infrastructure.KakeFordelerRepository">
+      <Item value="GetNextKakeAnsvarlig`0" priority="0" />
+      <Item value="SaveNextKakeAnsvarlig`0" priority="0" />
+      <Item value="NesteKakeDatoFilename" priority="3" />
+      <Item value="KakeAnsvarligeFilename" priority="0" />
+      <Item value="NesteKakeAnsvarligFilename" priority="2" />
+      <Item value="FerierFilename" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="0" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
